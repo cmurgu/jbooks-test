@@ -7,14 +7,14 @@ This asynchronous workshop includes 3 parts:
 * an introduction to the dataset
 * exploring a dataset using Python
 
-:::{note}
-Here is a note!
-:::
+## Learning Objectives
 
-And here is a code block:
+By the end of this workshop, you will be able to
+* describe the technical process of archiving and reloading preserved websites 
+* explain how web archive collections can be analyzed computationally
+* complete basic analysis of web archive datasets using Google Colab and Python
 
-```
-e = mc^2
-```
+## How to use this 'book'
 
-Check out the content pages bundled with this sample book to see more.
+This workshop uses a combination of *narrative text chunks* and *code chunks*. The difference is important. 
+
