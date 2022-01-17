@@ -200,4 +200,8 @@ If you think back to the previous section, you can see different headers, as wel
 
 ## Types of derivatives
 
+Here are a few examples of different types of processed derviatives and the type of analysis that they can be used for.
 
+* Full-text Derivative — an extraction of all of the text from a web page. Could be used for sentiment analysis. 
+* Link Derviative — an extraction of all of the inbound and outbound links. Could be used to map out the relationships between different URLs. 
+* PDF extraction — an extraction of all of the PDF (or other filetypes) on a webpage. Could be used to analyze documentary evidence. 
